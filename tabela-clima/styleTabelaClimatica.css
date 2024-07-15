@@ -11,6 +11,6 @@ th,td{
     padding: 5px;
 }
 
-th, th:hover{
+th, tr:hover{
     background-color: rgb(168,218,213);
 }
